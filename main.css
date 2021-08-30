@@ -1,0 +1,23 @@
+* {
+	font-family: "Source Sans Pro", sans;
+}
+
+.body {
+	max-width: 650px;
+	margin: auto auto 3em auto;
+	font-size: 100%	
+}
+
+#navbar-header {
+	font-size: xxx-large;
+	margin-bottom: 0;
+	margin-left: 40%;
+}
+
+#navbar {
+	margin-left: 40%;
+}
+
+.content-section {
+	margin-left: 40%;
+}
