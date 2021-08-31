@@ -1,23 +1,49 @@
 * {
 	font-family: "Source Sans Pro", sans;
+	margin: 0;
 }
 
-.body {
-	max-width: 650px;
-	margin: auto auto 3em auto;
-	font-size: 100%	
+body {
+	text-align: center;
 }
 
 #navbar-header {
 	font-size: xxx-large;
-	margin-bottom: 0;
-	margin-left: 40%;
+	text-align: center;
+	margin: 20px;
 }
 
-#navbar {
-	margin-left: 40%;
+.content {
+	margin: 0 auto;
+	display: inline-block;
 }
 
 .content-section {
-	margin-left: 40%;
+	text-align: justify;
+}
+
+#navbar {
+	margin-bottom: 30px;
+}
+
+#navbar ul {
+	padding: 10px;
+	list-style-type: none;
+	border: 2px solid lightblue;
+	border-left: none;
+	border-right: none;
+	width: 50%;
+	margin: auto;
+}
+
+#navbar li {
+	display: inline;
+}
+
+#navbar a {
+	margin: 0 10px 0;
+}
+
+.content-header {
+	margin: 20px 0 10px;
 }
