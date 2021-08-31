@@ -47,3 +47,7 @@ body {
 .content-header {
 	margin: 20px 0 10px;
 }
+
+.content-subsection {
+	margin-left: 30px;
+}
